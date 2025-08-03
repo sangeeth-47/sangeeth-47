@@ -21,7 +21,7 @@ This project highlights my **skills**, **projects**, and **certifications** in t
 
 ---
 
-## 📁 Project Structure
+## 📁 Portfolio Structure
 
 ```bash
 📦 main/
