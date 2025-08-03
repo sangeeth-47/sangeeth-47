@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/sangeeth-47/main/blob/2754bb704478e0f176e1cc1a7a23ccb454f3d53d/code.gif" width="100%"/>
+</p>
 
-<!--
-**sangeeth-47/sangeeth-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐✨ MY Portfolio
+> 🚀 *"A Digital Showcase of My Journey in Tech"*
+Welcome to my personal portfolio!  
+This project highlights my **skills**, **projects**, and **certifications** in the field of **Information Technology**, with a core focus on:
 
-Here are some ideas to get you started:
+- ☁️ **Cloud Computing**
+- 🌐 **Web Development**
+- 🤖 **Artificial Intelligence**
+- 🖥️ **Server Administration**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Live Website
+
+🌍 **Visit Now**: [https://sangeeth-47.github.io/main](https://sangeeth-47.github.io/main)  
+🔗 *Deployed via GitHub Pages*
+
+---
+
+## 📁 Project Structure
+
+```bash
+📦 main/
+├── index.html         # 🏠 Main landing page
+├── assets/
+│   ├── css/           # 🎨 Stylesheets
+│   ├── fonts/         # 🔤 Custom fonts
+│   ├── icons/         # 🧩 Icon packs
+│   ├── imgs/          # 🖼️ Images
+│   ├── js/            # 🧠 Scripts and logic
+│   └── vendors/       # 📦 Third-party libraries
+└── README.md          # 📘 This documentation file
+```
+-----
+
+## 🎯 Highlights
+
+✨ Sleek & responsive UI<br>
+⚡ Fast-loading with optimized assets<br>
+🔐 Secure and clean code<br>
+📱 Mobile-friendly design<br>
+🎓 35+ IT Certifications linked<br>
+🧠 Live AI demo projects integrated<br>
+
+-----
+
+## 📫 Let's Connect
+
+📧 Email: sangeethsmk@gmail.com<br>
+🔗 LinkedIn: https://www.linkedin.com/in/sangeeth47<br>
+💻 GitHub: https://github.com/sangeeth-47<br>
