@@ -1,4 +1,6 @@
-<p align="center"> ![Profile Views](https://sangeeth2314105883websitecounter.azurewebsites.net/api/github-profile-views?profile=sangeeth-47) </p>  
+<p align="center"> 
+![Profile Views](https://sangeeth2314105883websitecounter.azurewebsites.net/api/github-profile-views?profile=sangeeth-47) 
+</p>  
 <p align="center"> <img src="https://github.com/sangeeth-47/main/blob/2754bb704478e0f176e1cc1a7a23ccb454f3d53d/code.gif" width="100%"/> </p>
 
 ## 🌐✨ MY Portfolio
