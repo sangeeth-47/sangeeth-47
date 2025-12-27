@@ -1,9 +1,7 @@
-<p align="center">
-<img src="https://github.com/sangeeth-47/main/blob/2754bb704478e0f176e1cc1a7a23ccb454f3d53d/code.gif" width="100%"/>
-</p>
+<p align="center"> ![Profile Views](https://sangeeth2314105883websitecounter.azurewebsites.net/api/github-profile-views?profile=sangeeth-47) </p>  
+<p align="center"> <img src="https://github.com/sangeeth-47/main/blob/2754bb704478e0f176e1cc1a7a23ccb454f3d53d/code.gif" width="100%"/> </p>
 
 ## 🌐✨ MY Portfolio
-![Profile Views](https://sangeeth2314105883websitecounter.azurewebsites.net/api/github-profile-views?profile=sangeeth-47)
 > 🚀 *"A Digital Showcase of My Journey in Tech"*
 Welcome to my personal portfolio!  
 This project highlights my **skills**, **projects**, and **certifications** in the field of **Information Technology**, with a core focus on:
@@ -29,6 +27,7 @@ This project highlights my **skills**, **projects**, and **certifications** in t
 ├── index.html         # 🏠 Main landing page
 ├── assets/
 │   ├── css/           # 🎨 Stylesheets
+|   ├── docs/          # 📕 CV & Other Downloadable
 │   ├── fonts/         # 🔤 Custom fonts
 │   ├── icons/         # 🧩 Icon packs
 │   ├── imgs/          # 🖼️ Images
@@ -44,7 +43,7 @@ This project highlights my **skills**, **projects**, and **certifications** in t
 ⚡ Fast-loading with optimized assets<br>
 🔐 Secure and clean code<br>
 📱 Mobile-friendly design<br>
-🎓 35+ IT Certifications linked<br>
+🎓 55+ IT Certifications<br>
 🧠 Live AI demo projects integrated<br>
 
 -----
