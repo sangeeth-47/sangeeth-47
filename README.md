@@ -3,6 +3,7 @@
 </p>
 
 ## 🌐✨ MY Portfolio
+![Profile Views](https://sangeeth2314105883websitecounter.azurewebsites.net/api/github-profile-views?profile=sangeeth-47)
 > 🚀 *"A Digital Showcase of My Journey in Tech"*
 Welcome to my personal portfolio!  
 This project highlights my **skills**, **projects**, and **certifications** in the field of **Information Technology**, with a core focus on:
